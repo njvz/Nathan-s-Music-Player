@@ -5,8 +5,8 @@ The best music player this world has ever seen
 
 This personal project was created in order to help me learn how to create GUIs and utilize audio files in Java.  
 
-The Music Player includes these components: 
-- File Choosing
+The Music Player includes these features: 
+- File Choosing 
 - Shuffle Button
 - Previous Button
 - Play/Pause Button
@@ -15,6 +15,7 @@ The Music Player includes these components:
 - Scrollable Playlist Display
 - Current Song Display
 - Progress Bar
+- Autoplay
 
 &nbsp;
 
