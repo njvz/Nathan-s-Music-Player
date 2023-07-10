@@ -111,10 +111,10 @@ public class MusicPlayer extends JFrame implements ActionListener{
         nextButton.setIcon(nextIcon); 
 
         // set dispplay for playlist
-         playlistArea = new JTextArea(10, 40);
-                playlistArea.setEditable(false);
-                JScrollPane scrollPane = new JScrollPane(playlistArea);
-                add(scrollPane);
+        playlistArea = new JTextArea(10, 40);
+        playlistArea.setEditable(false);
+        JScrollPane scrollPane = new JScrollPane(playlistArea);
+        add(scrollPane);
        
 
         // instantiate song list
