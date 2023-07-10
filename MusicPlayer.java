@@ -17,18 +17,18 @@ public class MusicPlayer extends JFrame implements ActionListener{
     private JPanel buttonPanel; 
 
     private JButton chooseFileButton;
+    private JButton shuffleButton; 
     private JButton previousButton;
     private JButton playButton;
     private JButton nextButton;
     private JButton loopButton;
-    private JButton shuffleButton; 
 
-    private ImageIcon playIcon; 
-    private ImageIcon pauseIcon; 
-    private ImageIcon shuffleIcon; 
-    private ImageIcon loopIcon; 
+    private ImageIcon shuffleIcon;
     private ImageIcon previousIcon; 
-    private ImageIcon nextIcon;  
+    private ImageIcon playIcon; 
+    private ImageIcon pauseIcon;  
+    private ImageIcon nextIcon;
+    private ImageIcon loopIcon;   
     private ImageIcon unloopIcon;
  
     private JTextArea playlistArea;
@@ -59,19 +59,19 @@ public class MusicPlayer extends JFrame implements ActionListener{
 
         // instantiate buttons
         chooseFileButton = new JButton("Create Playlist"); 
+        shuffleButton = new JButton();
         previousButton = new JButton(); 
         playButton = new JButton(); 
         nextButton = new JButton(); 
         loopButton = new JButton(); 
-        shuffleButton = new JButton();
 
         // add listeners to buttons
         chooseFileButton.addActionListener(this);
+        shuffleButton.addActionListener(this);
         previousButton.addActionListener(this);
         playButton.addActionListener(this);
         nextButton.addActionListener(this);
         loopButton.addActionListener(this);
-        shuffleButton.addActionListener(this);
 
         add(chooseFileButton);
 
@@ -95,20 +95,20 @@ public class MusicPlayer extends JFrame implements ActionListener{
          add(image2);
 
         // instantiate icons
+        shuffleIcon = new ImageIcon("shuffle.png");
+        previousIcon = new ImageIcon("previous.png");
         playIcon = new ImageIcon("play.png");
-        pauseIcon = new ImageIcon("pause.png"); 
-        shuffleIcon = new ImageIcon("shuffle.png"); 
-        loopIcon = new ImageIcon("loop.png"); 
-        previousIcon = new ImageIcon("previous.png"); 
+        pauseIcon = new ImageIcon("pause.png");  
         nextIcon = new ImageIcon("next.png"); 
+        loopIcon = new ImageIcon("loop.png");  
         unloopIcon = new ImageIcon("unloop.png");   
 
         // set icons for buttons
-        playButton.setIcon(playIcon); 
-        shuffleButton.setIcon(shuffleIcon); 
-        loopButton.setIcon(loopIcon); 
+        shuffleButton.setIcon(shuffleIcon);
         previousButton.setIcon(previousIcon); 
-        nextButton.setIcon(nextIcon); 
+        playButton.setIcon(playIcon); 
+        nextButton.setIcon(nextIcon);  
+        loopButton.setIcon(loopIcon); 
 
         // set dispplay for playlist
         playlistArea = new JTextArea(10, 40);
@@ -125,7 +125,6 @@ public class MusicPlayer extends JFrame implements ActionListener{
         fileChooser.setApproveButtonText("Choose");
 
      
-
         // for customization
         getContentPane().setBackground(new Color(102,178,255));
 
@@ -162,7 +161,7 @@ public class MusicPlayer extends JFrame implements ActionListener{
     }
 
     // button functionality 
-
+    
     public void chooseFile() { 
         if (!filesChosen) {
 
@@ -377,6 +376,9 @@ public class MusicPlayer extends JFrame implements ActionListener{
             
     }
 }
+
+
+
 
 
 
