@@ -15,7 +15,6 @@ The Music Player includes these features:
 - Scrollable Playlist Display
 - Current Song Display
 - Progress Bar
-- Autoplay
 
 &nbsp;
 
