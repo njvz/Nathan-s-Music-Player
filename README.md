@@ -1,11 +1,8 @@
 # 🎵 Nathan-s-Music-Player
-The best music player this world has ever seen
 
-***
+This personal project was created while learning how to create GUIs and utilize audio files in Java. 
 
-This personal project was created in order to help me learn how to create GUIs and utilize audio files in Java.  
-
-The Music Player includes these features: 
+## Features
 - File Choosing 
 - Shuffle Button
 - Previous Button
@@ -28,4 +25,4 @@ The Music Player includes these features:
  
 <img width="530" alt="Screen Shot 2023-07-09 at 6 08 56 PM" src="https://github.com/njvz/Nathan-s-Music-Player/assets/135445498/802d3c94-3d70-4980-a22f-7c5fccf98e1b">
 
-***
+
