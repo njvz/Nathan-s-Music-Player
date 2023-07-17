@@ -18,15 +18,15 @@ This personal project was created while learning how to create GUIs and utilize 
 
 &nbsp;
 
-<img width="494" alt="Screen Shot 2023-07-14 at 12 23 28 PM" src="https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/ffb5a969-0dfd-4684-9af1-7d924acb7811">
+<img width="493" alt="Screen Shot 2023-07-17 at 1 35 40 PM" src="https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/a1ba43e0-40f8-49c2-b590-f772402f7c8b">
 
 &nbsp;
 
-<img width="544" alt="Screen Shot 2023-07-14 at 12 42 18 PM" src="https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/3be55d27-64de-46b0-b3c4-074eed404cc0">
+<img width="549" alt="Screen Shot 2023-07-17 at 1 37 36 PM" src="https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/0dab4f42-a0fc-4d81-8059-6ee670bb62e4">
 
 &nbsp;
 
-[![Image from Gyazo](https://gyazo.com/03f244610a5308692f4807381654cf41.gif)](https://gyazo.com/03f244610a5308692f4807381654cf41)
+[![Image from Gyazo](https://gyazo.com/12dbdc7001ad9ae0f54944b708fca025.gif)](https://gyazo.com/12dbdc7001ad9ae0f54944b708fca025)
 
 
 
