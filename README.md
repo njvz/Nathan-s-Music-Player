@@ -1,6 +1,6 @@
 # 🎵 Nathan-s-Music-Player
 
-This personal project was created while learning how to create GUIs and utilize audio files in Java. 
+This personal project was made while learning how to create GUIs and utilize audio files in Java. 
 
 ## Features
 - File Selection 
