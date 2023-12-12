@@ -1,4 +1,4 @@
-# 🎵 Nathan-s-Music-Player
+# Nathan-s-Music-Player
 
 This personal project was made while learning how to create GUIs and utilize audio files in Java. 
 
@@ -18,6 +18,5 @@ This personal project was made while learning how to create GUIs and utilize aud
 
 &nbsp;
 
-https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/87b4fc65-7b50-47f2-b93d-25bdc788df29
-
+https://github.com/nvanzandt/Nathan-s-Music-Player/assets/135445498/fea26ae7-8ea1-43b0-8555-42634e10d1c2
 
