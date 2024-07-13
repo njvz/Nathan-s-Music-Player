@@ -4,12 +4,12 @@ This personal project was made while learning how to create GUIs and utilize aud
 
 ## Features
 - File Selection 
-- Shuffle Button
-- Previous Button
-- Play/Pause Button
-- Next Button
-- Loop/Unloop Button
-- Scrollable Playlist Display
+- Shuffle 
+- Previous
+- Play/Pause
+- Next
+- Loop/Unloop
+- Scrollable Playlist
 - Current Song Display
 - Progress Bar
 - Timestamp
